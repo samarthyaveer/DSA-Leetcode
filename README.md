@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
