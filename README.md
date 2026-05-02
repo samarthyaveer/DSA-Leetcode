@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0788-rotated-digits](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0788-rotated-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0788-rotated-digits](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0788-rotated-digits) |
 <!---LeetCode Topics End-->
