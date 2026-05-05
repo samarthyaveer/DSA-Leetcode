@@ -12,28 +12,27 @@ class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
         if(!head || !head->next) return head;
-        vector<int> listArr;
-        ListNode* temp = head;
 
-        while(temp) {
-            listArr.push_back(temp->val);
-            temp = temp->next;
+        ListNode* tail = head;
+        int L=1;
+        while(tail->next) {
+            tail = tail->next;
+            L++;
         }
 
-        int n = listArr.size();
-        k = k%n;
-        vector<int> rotatedArr(n);
+        k %= L;
+        if(k==0) return head;
 
-        for(int i=0; i<n; i++) {
-            rotatedArr[(i+k) % n] = listArr[i];
+        int breakP = L-k-1;
+        ListNode* prev = head;
+        for(int i=0; i<breakP; i++) {
+            prev = prev->next;
         }
 
-        temp = head;
-        int i=0;
-        while(temp) {
-            temp->val = rotatedArr[i++];
-            temp = temp->next;
-        }
+        tail->next = head;
+        head = prev->next;
+        prev->next = NULL;
+
         return head;
     }
 };
