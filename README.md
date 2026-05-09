@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3660-jump-game-ix) |
 ## Greedy
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0788-rotated-digits](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0788-rotated-digits) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0061-rotate-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
