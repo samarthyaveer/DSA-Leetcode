@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1306-jump-game-iii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2784-check-if-array-is-good](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -94,9 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
