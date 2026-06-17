@@ -1,38 +1,44 @@
 class Solution {
 public:
     char processStr(string s, long long k) {
-        vector<long long> len(s.size());
-        long long cur = 0;
+        long long length = 0;
 
-        for (int i = 0; i < s.size(); i++) {
-            char ch = s[i];
-
-            if (ch >= 'a' && ch <= 'z') cur++;
-            else if (ch == '*') {
-                if (cur) cur--;
+        for(char ch: s) {
+            switch(ch) {
+                case '*':
+                    if(length > 0)
+                        length--;
+                    break;
+                case '#':
+                    length *= 2;
+                    break;
+                case '%':
+                    break;
+                default:
+                    length++;
             }
-            else if (ch == '#') {
-                cur = min(2LL * cur, (long long)1e15);
-            }
-
-            len[i] = cur;
         }
 
-        if (k >= cur) return '.';
+        if(k >= length)
+            return '.';
 
-        for (int i = s.size() - 1; i >= 0; i--) {
-            char ch = s[i];
-
-            if (ch >= 'a' && ch <= 'z') {
-                if (len[i] - 1 == k) return ch;
+        for(int i=s.size()-1; i>=0; i--) {
+            switch(s[i]) {
+                case '*':
+                    length++;
+                    break;
+                case '#':
+                    length /= 2;
+                    k = (k >= length)? k - length: k;
+                    break;
+                case '%':
+                    k = length - k - 1;
+                    break;
+                default:
+                    length--;
             }
-            else if (ch == '#') {
-                long long prev = len[i] / 2;
-                if (k >= prev) k -= prev;
-            }
-            else if (ch == '%') {
-                k = len[i] - 1 - k;
-            }
+            if(k == length)
+                return s[i];
         }
 
         return '.';
