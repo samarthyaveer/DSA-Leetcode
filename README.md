@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1345-jump-game-iv) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2540-minimum-common-value) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1871-jump-game-vii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
