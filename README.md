@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3660-jump-game-ix) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1871-jump-game-vii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -151,4 +154,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
