@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1306-jump-game-iii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1345-jump-game-iv) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
