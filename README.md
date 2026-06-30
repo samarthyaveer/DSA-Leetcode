@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [2540-minimum-common-value](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2540-minimum-common-value) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0268-missing-number) |
 | [2784-check-if-array-is-good](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Matrix
