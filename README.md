@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1306-jump-game-iii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1345-jump-game-iv) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1306-jump-game-iii) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Sliding Window
 |  |
 | ------- |
@@ -188,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
