@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0796-rotate-string](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
