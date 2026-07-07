@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [2540-minimum-common-value](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2540-minimum-common-value) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0151-reverse-words-in-a-string](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0796-rotate-string](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
