@@ -6,19 +6,14 @@ public:
         for(char c : word) {
             freq[c-'a']++;
         }
-        sort(freq.begin(), freq.end());
-        int ans = 0, count = 0;
-        for(int i=25; i>=0; i--) {
-            if(freq[i] == 0) break;
-
-            if(count<8) ans += freq[i];
-            else if(count>7 && count<16) ans += 2 * freq[i];
-            else if(count>15 && count<24) ans += 3 * freq[i];
+        sort(freq.begin(), freq.end(), greater<int>());
+        int ans = 0;
+        for(int i=0; i<freq.size(); i++) {
+            if(i<8) ans += freq[i];
+            else if(i>7 && i<16) ans += 2 * freq[i];
+            else if(i>15 && i<24) ans += 3 * freq[i];
             else ans += 4 * freq[i];
-
-            count++;
         }
-
         return ans;
     }
 };
