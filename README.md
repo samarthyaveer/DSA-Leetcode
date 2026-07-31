@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0268-missing-number) |
 | [2784-check-if-array-is-good](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
