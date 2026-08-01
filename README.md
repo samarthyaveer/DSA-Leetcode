@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0704-binary-search) |
 | [1306-jump-game-iii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1306-jump-game-iii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0788-rotated-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0788-rotated-digits) |
 | [1871-jump-game-vii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1871-jump-game-vii) |
 | [3660-jump-game-ix](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3660-jump-game-ix) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 ## Union-Find
 |  |
 | ------- |
@@ -230,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
