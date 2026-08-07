@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Two Pointers
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Trie
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Depth-First Search
 |  |
@@ -250,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
