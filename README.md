@@ -262,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
