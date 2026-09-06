@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3660-jump-game-ix) |
 | [3664-two-letter-card-game](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3664-two-letter-card-game) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3664-two-letter-card-game](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3664-two-letter-card-game) |
 | [3731-find-missing-elements](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3731-find-missing-elements) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1871-jump-game-vii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1871-jump-game-vii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3660-jump-game-ix](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3660-jump-game-ix) |
 ## String Matching
 |  |
