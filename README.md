@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3660-jump-game-ix) |
+| [3664-two-letter-card-game](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3664-two-letter-card-game) |
 | [3731-find-missing-elements](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3664-two-letter-card-game](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3664-two-letter-card-game) |
 | [3731-find-missing-elements](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3664-two-letter-card-game](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3664-two-letter-card-game) |
 ## Trie
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3664-two-letter-card-game](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3664-two-letter-card-game) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3664-two-letter-card-game](https://github.com/samarthyaveer/DSA-Leetcode/tree/master/3664-two-letter-card-game) |
 ## Backtracking
 |  |
 | ------- |
